@@ -1,4 +1,4 @@
-# Vulnerability Assessment Report — Task 1
+# Vulnerability Assessment Report - Task 1
 
 ## Internship Details
 Program: Future Interns - Cyber Security Track
